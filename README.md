@@ -73,7 +73,7 @@ You need to rebuild (`npm run build`) every time you change this configuration.
 To build destreamer clone this repository, install dependencies and run the build script -
 
 ```sh
-$ git clone https://github.com/snobu/destreamer
+$ git clone https://github.com/Fellarrusto/destreamer
 $ cd destreamer
 $ npm install
 $ npm run build
